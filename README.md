@@ -1,7 +1,3 @@
-# Prodigy Infotech Machine Learning Internship
-
-This repository contains the Machine Learning tasks completed during my internship at Prodigy Infotech.
-
 ## Completed Tasks
 
 ### Task 01 - House Price Prediction
@@ -16,13 +12,10 @@ This repository contains the Machine Learning tasks completed during my internsh
 - Built an SVM classifier to classify cat and dog images.
 - Dataset: Dogs vs Cats (Kaggle)
 
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- OpenCV
+### Task 04 - Hand Gesture Recognition
+- Developed an SVM model for recognizing hand gestures.
+- Dataset: LeapGestRecog
 
-## Author
-**Tushar**
+### Task 05 - Food Recognition and Calorie Estimation
+- Developed an SVM-based food recognition model using a subset of the Food-101 dataset.
+- Dataset: Food-101
